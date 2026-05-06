@@ -4,3 +4,6 @@ Asaki Billawala
 1) No because the messaging feature is a combination of different "sub-features" like the interface for inputting a message, saving a message, and more. A unit test should be made to test a single function aside for other parts. Testing the whole system could convolute the process of pinpointing and finding bugs or errors.
 
 2) Yes because this is an isolated feature/function of the whole system.
+## GitHub Page links
+- [Expose Page](https://abillawala.github.io/Lab5_Starter/expose.html)
+- [Exlpre Page](https://abillawala.github.io/Lab5_Starter/explore.html)
