@@ -36,7 +36,6 @@ function init() {
   // Image toggling
   talkButton.addEventListener('click', () => {  
     const utterThis = new SpeechSynthesisUtterance(inputTxt.value);
-    //const voices = synth.getVoices();
     const selectedOption = voiceSelect.selectedOptions[0].getAttribute("data-name");
     for (const voice of voices) {
       if (voice.name === selectedOption) {
